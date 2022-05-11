@@ -49,9 +49,10 @@ async function autoReinicioONU(ip) {
         console.log(erro.msg);
     }
 }
-
-//autoReinicioONU(argumentoIP[2]);
-autoReinicioONU('172.16.33.181');
+//Recebe IP como argumento ao executar o programa via CLI
+autoReinicioONU(argumentoIP[2]);
+//Exemplo com IP específico
+//autoReinicioONU('172.16.33.181');
 
 
 
