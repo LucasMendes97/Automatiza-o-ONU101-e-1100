@@ -1,5 +1,5 @@
 /**
- * Scritp para reiniciar ONU 1100 e 101
+ * Scritp para reinicio de ONU 1100 e 101 via https
  * Autor: Lucas M. Alves
  * Data: 03/05/2022
  * Dependências: framework Selenium
