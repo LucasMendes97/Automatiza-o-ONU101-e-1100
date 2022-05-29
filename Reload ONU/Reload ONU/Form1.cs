@@ -122,7 +122,7 @@ namespace Reload_ONU
                     driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromMilliseconds(10000);
                     driver.FindElement(By.Id("link_class_5")).Click();
                     driver.FindElement(By.Id("link_class_sub_5_2")).Click();
-                    //driver.ExecuteScript("window.location='/port/reboot.cgi'");
+                    driver.ExecuteScript("window.location='/port/reboot.cgi'");
                     driver.Close();
                 }
                 else if (driver.Title.Contains("Parks S/A") && (onu_1100.CheckState == CheckState.Unchecked))
@@ -145,7 +145,7 @@ namespace Reload_ONU
                     driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromMilliseconds(10000);
                     driver.FindElement(By.Id("Submit1")).Click();
                     driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromMilliseconds(10000);
-                    // driver.FindElement(By.Id("msgconfirmb")).Click();
+                    driver.FindElement(By.Id("msgconfirmb")).Click();
                     driver.Close();
                 }
                 else if (driver.Title.Contains("FiberLink101") && (onu_101.CheckState == CheckState.Unchecked))

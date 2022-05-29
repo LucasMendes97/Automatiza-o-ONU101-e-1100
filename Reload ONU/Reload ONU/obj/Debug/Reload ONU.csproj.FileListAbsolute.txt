@@ -17,3 +17,22 @@ C:\Users\Lucas\source\repos\Reload ONU\Reload ONU\obj\Debug\Reload ONU.csproj.Co
 C:\Users\Lucas\source\repos\Reload ONU\Reload ONU\obj\Debug\Reload ONU.csproj.CopyComplete
 C:\Users\Lucas\source\repos\Reload ONU\Reload ONU\obj\Debug\Reload ONU.exe
 C:\Users\Lucas\source\repos\Reload ONU\Reload ONU\obj\Debug\Reload ONU.pdb
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\Reload ONU.exe.config
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\Reload ONU.exe
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\Reload ONU.pdb
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\EPPlus.dll
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\WebDriver.dll
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\EPPlus.xml
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload ONU.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload ONU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload_ONU.Form1.resources
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload_ONU.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload ONU.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload ONU.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload ONU.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload ONU.exe
+C:\Users\Lucas\Desktop\Reinicio_automatizado_ONU_101_e_1100\Reload ONU\Reload ONU\obj\Debug\Reload ONU.pdb
