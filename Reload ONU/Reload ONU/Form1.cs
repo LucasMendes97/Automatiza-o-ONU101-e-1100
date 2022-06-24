@@ -165,11 +165,14 @@ namespace Reload_ONU
             {
                 foreach (string ip in ips)
                 {
-                    //remove espaça da string
+                    //remove espaço da string
                     PingReply c = ping.Send(ip.Replace(" ", ""));
                     if (c.Status == IPStatus.Success)
                     {
-                        //IMPLEMENTAR STATUS DO PROCESSO DE PING, EX: QUANTIDADE TOTAL, IP ATUAL, POSIÇÃO ATUAL E UMA BARRA DE PROGRESSO   
+                        /*TODO
+                        * IMPLEMENTAR STATUS DO PROCESSO DE PING, EX: QUANTIDADE TOTAL, IP ATUAL, POSIÇÃO ATUAL E UMA BARRA DE PROGRESSO
+                        */
+                           
                         autoReinicioONU(ip);
                         barraProgresso.Value++;
                     }
